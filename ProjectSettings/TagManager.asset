@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - kurt
+  - kurbaga
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Zemin
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1172136311
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tilesMao
+    uniqueID: 3311937847
+    locked: 0
+  - name: efektler
+    uniqueID: 1062985345
+    locked: 0
+  - name: CevreElemanlar
+    uniqueID: 446073779
+    locked: 0
+  - name: Player
+    uniqueID: 2053968963
+    locked: 0
